@@ -1,2 +1,2 @@
-# microservices-config-server
+# ms-config-server-configuration
 Added config for microservices
